@@ -10,6 +10,6 @@
 
 * Want to install one of our clients ([Python](https://github.com/Quicopt/quicopt-python) | [Julia](https://github.com/Quicopt/QuicoptClient.jl) | [Ruby/Rails](https://github.com/Quicopt/quicopt-ruby)) and solve your first problem? Check out our [Getting Started](https://quicopt.com/developer/getting-started/).
 * Looking for a template for your optimization problem? Check out the [tutorials](https://quicopt.com/developer/tutorials/).
-* Stochastic optimization is currently supported via [Pyomo](https://quicopt.github.io/quicopt-python/api/stochastic/), our [R client](https://github.com/Quicopt/quicopt-r) and our [JuMP extension](https://quicopt.github.io/QuicoptClient.jl/dev/api/modeling/#Stochastic-models).
+* Stochastic optimization is currently supported via [Pyomo](https://quicopt.github.io/quicopt-python/api/stochastic/), our [R client](https://quicopt.github.io/quicopt-r/) and our [JuMP extension](https://quicopt.github.io/QuicoptClient.jl/dev/api/modeling/#Stochastic-models).
 * Curious about Quicopt's performance? Check out our [benchmarks](https://quicopt.com/benchmarks/).
 * Want to talk to an expert? Check out [contact form](https://quicopt.com/#contact).
