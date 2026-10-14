@@ -12,4 +12,4 @@
 * Looking for a template for your optimization problem? Check out the [tutorials](https://quicopt.com/developer/tutorials/).
 * Stochastic optimization is currently supported via [Pyomo](https://quicopt.github.io/quicopt-python/api/stochastic/), our [R client](https://quicopt.github.io/quicopt-r/) and our [JuMP extension](https://quicopt.github.io/QuicoptClient.jl/dev/api/modeling/#Stochastic-models).
 * Curious about Quicopt's performance? Check out our [benchmarks](https://quicopt.com/benchmarks/).
-* Want to talk to an expert? Check out [contact form](https://quicopt.com/#contact).
+* Want to talk to an expert? Check out our [contact form](https://quicopt.com/#contact).
